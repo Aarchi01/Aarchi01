@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aarchi Gandhi
 - 👀 I’m interested about data science, machine learning, and insightful analysis and I am dedicated to unlocking patterns and driving actionable insights from complex datasets.
-- 🌱 I’m currently learning Python and ML algorithms
+- 🌱 I’m currently learning Python and Machine Learning algorithms
 - 📫 You can reach me either at archiegandhi01@gmail.com or on my linkedIn www.linkedin.com/in/aarchi-gandhi
 
 
