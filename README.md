@@ -1,7 +1,9 @@
 ## Hi, I'm Aarchi Gandhi
 
-Recent graduate with a background in MSc Data Science, specialising in EDA, NLP and machine learning. I've built LLM-powered data systems during an industry internship and enjoy working on projects where data analysis meets real-world decision making.
----
+Growing up, my first "data visualisation" was a hand-drawn dog wearing a customised neck belt, eating chocolate — stuck proudly in the front window of my father's veterinary pharmacy. I was convinced it drove sales. (The product probably helped too, but let me have that one.)
+Helping with his business as I grew up, I was already tracking what drove sales, which products moved, who the customers were, I just didn't have a name for it yet. That curiosity followed me all the way to an MSc in Data Science at the University of Roehampton, London.
+Now I get to build the kind of systems and reports I wish we'd had back then which is turning complex data into something anyone can understand and act on. I'm naturally curious and quietly observant, the kind of person who gets genuinely excited when the data starts telling a story.
+Currently looking for a data analyst or data scientist role where I can do exactly that.
 
 ## 🛠 Tech stack
 
@@ -39,10 +41,7 @@ Deep learning pipeline comparing Bi-LSTM and BART transformer architectures for 
 
 ---
 
-## 👩‍🎓 About me
+## Get in touch
 
-- 🎓 MSc Data Science, University of Roehampton, 2025
-- 🔍 Open to data analyst / data scientist roles
-- 📍 Based in UK
 - 📬 archiegandhi01@gmail.com
 - 💼 www.linkedin.com/in/aarchi-gandhi
