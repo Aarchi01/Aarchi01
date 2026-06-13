@@ -40,7 +40,7 @@ Now I get to build the kind of systems and reports I wish we'd had back then tur
 
 ## 📌 Featured Projects
 
-### 🌱 [Strawberry Greenhouse EDA](https://github.com/Aarchi01/Strawberry-Greenhouse-EDA)
+### 🌱 [Strawberry Greenhouse EDA](https://github.com/Aarchi01/Strawberry-Greenhouse-EDA-Project)
 Environmental analysis of greenhouse sensor data focused on VPD optimisation, temperature differential patterns, and early detection of powdery mildew risk conditions. Demonstrates domain-applied analytical thinking on real agricultural IoT data.
 `Python` `Pandas` `Seaborn` `EDA` `Data Cleaning`
 
